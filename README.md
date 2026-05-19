@@ -16,7 +16,7 @@ const kelvin = {
   name: "Kelvin Agyare Yeboah",
   base: "Accra, Ghana 🇬🇭",
   role: "Software Engineer & Product Builder",
-  company: "Founder @ Zoarix",
+  company: "Founder @ Zoharix",
   current_build: "Z-Events (Event Ticketing Platform)",
   focus: [
     "Building scalable web applications",
@@ -33,7 +33,7 @@ const kelvin = {
 
 ## 🚀 WHAT I’M BUILDING
 
-### 🏢 Zoarix
+### 🏢 Zoharix
 
 A software company focused on building modern digital systems for startups and businesses.
 
@@ -94,7 +94,7 @@ Git • GitHub • Figma • VS Code • REST APIs
 
 ## 🌍 CONNECT WITH ME
 
-* 🌐 Portfolio: [https://kelvinagyareyeboah.netlify.app](https://kelvinagyareyeboah.netlify.app)
+* 🌐 Portfolio: [https://kelvinagyareyeboah.me](https://kelvinagyareyeboah.me)
 * 🏢 Company: [https://zoharix.tech](https://zoharix.tech)
 * 💼 LinkedIn: (add yours here)
 * 🐙 GitHub: [https://github.com/kelvinagyareyeboah](https://github.com/kelvinagyareyeboah)
