@@ -117,16 +117,16 @@ const kelvin = {
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=austinbediako)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinagyareyeboah)
 
-[![Austin's Stats](https://github-readme-stats.vercel.app/api?username=austinbediako&show_icons=true&theme=tokyonight)](https://github.com/austinbediako)
+[!kelvin's Stats](https://github-readme-stats.vercel.app/api?username=kelvinagyareyeboah&show_icons=true&theme=tokyonight)](https://github.com/kelvinagyareyeboah)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=austinbediako)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=austinbediako)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelvinagyareyeboah)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelvinagyareyeboah)
 
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=austinbediako&theme=tokyonight)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=kelvinagyareyeboah&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinbediako&layout=compact&langs_count=10&count_private=true&theme=tokyonight)](https://github.com/austinbediako)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinbediako&layout=compact&langs_count=10&count_private=true&theme=tokyonight)](https://github.com/kelvinagyareyeboah)
 
 ---
 
