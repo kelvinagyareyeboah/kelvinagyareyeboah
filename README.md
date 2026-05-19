@@ -90,9 +90,6 @@ const kelvin = {
   <a href="https://kelvinagyareyeboah.netlify.app" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="portfolio" height="32" width="32"/>
   </a>&nbsp;&nbsp;
-  <a href="https://zoharix.tech" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/safari/safari-icon.svg" alt="zoharix" height="32" width="32"/>
-  </a>&nbsp;&nbsp;
   <a href="https://github.com/kelvinagyareyeboah" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="32" width="32"/>
   </a>&nbsp;&nbsp;
