@@ -171,8 +171,5 @@ I can now upgrade you further into:
 
 ### 3. 💼 Amazon interview positioning (how to talk about this README)
 
-### 4. 🧠 GitHub profile image + banner design upgrade
-
-Just say:
-is into a **portfolio that gets interviews, not j
+that gets interviews, not j
 
