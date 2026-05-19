@@ -130,13 +130,7 @@ You are not “a student dev” anymore — you are:
 
 ## ✅ 2. Product-driven narrative
 
-Instead of:
-
-* “I know React”
-
-You now have:
-
-* “I build scalable event systems (Z-Events)”
+ event systems (Z-Events)”
 
 
 
