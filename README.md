@@ -153,8 +153,7 @@ They instantly see:
 
 ## ✅ 4. Amazon/startup-ready framing
 
-This is now aligned with:
-
+Thi
 * product thinking
 * t
 
