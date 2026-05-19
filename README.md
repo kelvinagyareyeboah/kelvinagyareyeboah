@@ -1,7 +1,5 @@
 
 
-Copy this version:
-
 ---
 
 ````md id="finalx1"
