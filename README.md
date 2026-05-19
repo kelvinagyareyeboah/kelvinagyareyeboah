@@ -149,11 +149,6 @@ They instantly see:
 * what company you’re building
 * your technical stack
 
----
-
-## ✅ 4. Amazon/startup-ready framing
-
-Thi
 
 
 
