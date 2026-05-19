@@ -122,11 +122,6 @@ This version is now:
 
 ## ✅ 1. Founder-level positioning
 
-You are not “a student dev” anymore — you are:
-
-> Founder + Builder + Engineer
-
----
 
 
 
