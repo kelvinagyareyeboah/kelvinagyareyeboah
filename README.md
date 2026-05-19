@@ -120,13 +120,22 @@ const kelvin = {
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=kelvinagyareyeboah&theme=midnight-purple&show_icons=true&count_private=true" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=kelvinagyareyeboah&theme=midnight-purple&show_icons=true&count_private=true" 
+        alt="GitHub Stats" 
+      />
       <br/><br/>
-      <img src="https://streak-stats.demolab.com/?user=kelvinagyareyeboah&theme=midnight-purple" />
+      <img 
+        src="https://streak-stats.demolab.com?user=kelvinagyareyeboah&theme=midnight-purple" 
+        alt="GitHub Streak" 
+      />
     </td>
 
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinagyareyeboah&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinagyareyeboah&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10" 
+        alt="Top Languages" 
+      />
     </td>
   </tr>
 </table>
@@ -134,19 +143,31 @@ const kelvin = {
 ---
 
 <div align="center">
-  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=kelvinagyareyeboah&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
+  <img 
+    width="84%" 
+    src="https://github-profile-trophy.vercel.app/?username=kelvinagyareyeboah&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
+    alt="GitHub Trophies" 
+  />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinagyareyeboah&theme=midnight_purple" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinagyareyeboah&theme=midnight_purple" 
+    alt="Profile Summary Card" 
+  />
 </p>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinagyareyeboah&custom_title=Kelvin%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=c084fc&line=c084fc&point=c084fc&area=true&title_color=FFFFFF" width="100%"/>
-
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinagyareyeboah&custom_title=Kelvin%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=c084fc&line=c084fc&point=c084fc&area=true&title_color=FFFFFF" 
+    width="100%" 
+    alt="Activity Graph" 
+  />
+</p>
 ---
 
 ### 🔝 Top Contributed Repositories
