@@ -1,4 +1,4 @@
-Good — now we’ll push this to a **top 1% developer + startup founder level profile** (the kind recruiters actually take seriously at places like Amazon or fast-moving startups).
+Good — now we’ll push this to a **top 1% developer + startup founder level profile** (the kind recruiters actually take seriously at placAmazon or fast-moving startups).
 
 
 
