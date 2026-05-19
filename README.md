@@ -116,4 +116,4 @@ I can help you turn this into:
 * 🔥 Zoarix startup pitch positioning
 * 🔥 Z-Events case study (this can get you job offers)
 
-Just say 👍
+Just say
