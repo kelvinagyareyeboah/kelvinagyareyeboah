@@ -138,9 +138,6 @@ You now have:
 
 * “I build scalable event systems (Z-Events)”
 
----
-
-## ✅ 3. Recruiter-readable in 10 seconds
 
 
 
