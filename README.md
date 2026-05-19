@@ -117,57 +117,17 @@ const kelvin = {
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=kelvinagyareyeboah&theme=midnight-purple&show_icons=true&count_private=true" 
-        alt="GitHub Stats" 
-      />
-      <br/><br/>
-      <img 
-        src="https://streak-stats.demolab.com?user=kelvinagyareyeboah&theme=midnight-purple" 
-        alt="GitHub Streak" 
-      />
-    </td>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=austinbediako)
 
-    <td width="50%" align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinagyareyeboah&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10" 
-        alt="Top Languages" 
-      />
-    </td>
-  </tr>
-</table>
+[![Austin's Stats](https://github-readme-stats.vercel.app/api?username=austinbediako&show_icons=true&theme=tokyonight)](https://github.com/austinbediako)
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=austinbediako)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=austinbediako)
 
-<div align="center">
-  <img 
-    width="84%" 
-    src="https://github-profile-trophy.vercel.app/?username=kelvinagyareyeboah&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
-    alt="GitHub Trophies" 
-  />
-</div>
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=austinbediako&theme=tokyonight)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinbediako&layout=compact&langs_count=10&count_private=true&theme=tokyonight)](https://github.com/austinbediako)
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinagyareyeboah&theme=midnight_purple" 
-    alt="Profile Summary Card" 
-  />
-</p>
-
----
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinagyareyeboah&custom_title=Kelvin%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=c084fc&line=c084fc&point=c084fc&area=true&title_color=FFFFFF" 
-    width="100%" 
-    alt="Activity Graph" 
-  />
-</p>
 ---
 
 ### 🔝 Top Contributed Repositories
