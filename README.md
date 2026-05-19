@@ -76,16 +76,16 @@ const kelvin = {
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=KelvCodes&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvCodes&theme=midnight-purple&layout=compact&hide_border=true&langs_count=8"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=kelvinagyareyeboah&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinagyareyeboah&theme=midnight-purple&layout=compact&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvCodes&theme=midnight-purple&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinagyareyeboah&theme=midnight-purple&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvCodes&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinagyareyeboah&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
