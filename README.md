@@ -142,12 +142,7 @@ You now have:
 
 ## ✅ 3. Recruiter-readable in 10 seconds
 
-They instantly see:
 
-* who you are
-* what you build
-* what company you’re building
-* your technical stack
 
 
 
