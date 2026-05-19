@@ -117,13 +117,6 @@ const kelvin = {
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinagyareyeboah&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinagyareyeboah&layout=compact&langs_count=8&theme=midnight-purple"/>
-
-</div>
 
 <div align="center">
 
@@ -141,15 +134,6 @@ const kelvin = {
 
 </div>
 
----
-
-# 🔝 Top Contributed Repo
-
-<div align="center">
-
-<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=kelvinagyareyeboah&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true"/>
-
-</div>
 
 ---
 
