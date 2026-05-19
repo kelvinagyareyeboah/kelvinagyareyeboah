@@ -117,45 +117,46 @@ const kelvin = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvinagyareyeboah&theme=midnight-purple&show_icons=true&count_private=true&hide_border=false" />
-        <br/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinagyareyeboah&theme=midnight-purple&hide_border=false" />
-      </td>
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinagyareyeboah&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-      </td>
-    </tr>
-  </table>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=kelvinagyareyeboah&theme=midnight-purple&show_icons=true&count_private=true" />
+      <br/><br/>
+      <img src="https://streak-stats.demolab.com/?user=kelvinagyareyeboah&theme=midnight-purple" />
+    </td>
 
-<!-- Trophy -->
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinagyareyeboah&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10" />
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=kelvinagyareyeboah&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy" />
-  </a>
+  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=kelvinagyareyeboah&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
 </div>
 
-<!-- Profile Summary Card -->
+---
+
 <p align="center">
-  <a href="https://github.com/kelvinagyareyeboah">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinagyareyeboah&theme=midnight_purple" alt="Kelvin's GitHub Contribution"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinagyareyeboah&theme=midnight_purple" />
 </p>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinagyareyeboah&custom_title=Kelvin%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=c084fc&line=c084fc&point=c084fc&area_color=FFFFFF&title_color=FFFFFF&area=true" width="100%"/>
+---
 
-<!-- Top Contributed Repos -->
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=kelvinagyareyeboah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinagyareyeboah&custom_title=Kelvin%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=c084fc&line=c084fc&point=c084fc&area=true&title_color=FFFFFF" width="100%"/>
 
-<!-- Snake -->
+---
+
+### 🔝 Top Contributed Repositories
+
+<img src="https://github-contributor-stats.vercel.app/api?username=kelvinagyareyeboah&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+---
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/kelvinagyareyeboah/kelvinagyareyeboah/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
