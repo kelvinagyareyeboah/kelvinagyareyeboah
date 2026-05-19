@@ -165,7 +165,7 @@ This is now aligned with:
 
 I can now upgrade you further into:
 
-### 1. 🔥 Zoarix landing-page pitch (investor level)
+ landing-page pitch (investor level)
 
 
 
