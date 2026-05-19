@@ -115,18 +115,51 @@ const kelvin = {
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinagyareyeboah)
+<div align="center">
 
-[!kelvin's Stats](https://github-readme-stats.vercel.app/api?username=kelvinagyareyeboah&show_icons=true&theme=tokyonight)](https://github.com/kelvinagyareyeboah)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinagyareyeboah&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelvinagyareyeboah)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelvinagyareyeboah)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinagyareyeboah&layout=compact&langs_count=8&theme=midnight-purple"/>
 
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=kelvinagyareyeboah&theme=tokyonight)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinbediako&layout=compact&langs_count=10&count_private=true&theme=tokyonight)](https://github.com/kelvinagyareyeboah)
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=kelvinagyareyeboah&theme=midnight-purple"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=kelvinagyareyeboah&theme=darkhub&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinagyareyeboah&bg_color=0d1117&color=c084fc&line=c084fc&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 📋 Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinagyareyeboah&theme=midnight_purple"/>
+
+</div>
 
 ---
 
