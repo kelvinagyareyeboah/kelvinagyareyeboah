@@ -112,9 +112,7 @@ Git • GitHub • Figma • VS Code • REST APIs
 💜 Built from Accra, Ghana 🇬🇭 | Focused on global impact through software
 
 </div>
-```
 
-s
 
 
 
