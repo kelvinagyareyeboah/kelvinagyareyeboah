@@ -1,6 +1,4 @@
 
-
-````md id="finalx1"
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:1a0533,100:0d0221&height=260&section=header&text=Kelvin%20Agyare%20Yeboah&fontSize=48&fontColor=c084fc&fontAlignY=45&desc=Software%20Engineer%20|%20Founder%20@%20Zoarix%20|%20Building%20Z-Events&descSize=16&descAlignY=65" />
 
 <div align="center">
