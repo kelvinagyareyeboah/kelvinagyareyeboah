@@ -174,8 +174,5 @@ I can now upgrade you further into:
 ### 4. 🧠 GitHub profile image + banner design upgrade
 
 Just say:
-
-> “next level”
-
-and I’ll push this into a **portfolio that gets interviews, not j
+is into a **portfolio that gets interviews, not j
 
