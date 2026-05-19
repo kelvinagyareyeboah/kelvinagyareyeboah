@@ -156,8 +156,7 @@ They instantly see:
 This is now aligned with:
 
 * product thinking
-* system building
-* engineering mindset
+* t
 
 ---
 
