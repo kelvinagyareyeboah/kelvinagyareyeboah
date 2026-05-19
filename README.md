@@ -1,6 +1,4 @@
 
-LIONB PROFILE (FINAL UPGRADE)
-
 
 Copy this version:
 
