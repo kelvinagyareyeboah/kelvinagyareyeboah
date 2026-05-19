@@ -117,13 +117,13 @@ const kelvin = {
     
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="32" width="32"/>
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
+  <a href="https://twitter.com/_yo_kelvin" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="32" width="32"/>
   </a>&nbsp;&nbsp;
   <a href="https://dev.to/YOUR_HANDLE" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="32" width="32"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:kelvinagyareyeboah@gmail.com" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="32" width="32"/>
   </a>
 </p>
