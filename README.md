@@ -1,6 +1,6 @@
 Good — now we’ll push this to a **top 1% developer + startup founder level profile** (the kind recruiters actually take seriously at places like Amazon or fast-moving startups).
 
-I’ll upgrade your README into a **full “product + founder + engineer narrative”** instead of just a profile page.
+I’ll upgrur README into a **full “product + founder + engineer narrative”** instead of just a profile page.
 
 ---
 
