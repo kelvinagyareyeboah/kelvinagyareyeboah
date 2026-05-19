@@ -143,6 +143,16 @@ const kelvin = {
 
 ---
 
+# 🔝 Top Contributed Repo
+
+<div align="center">
+
+<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=kelvinagyareyeboah&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true"/>
+
+</div>
+
+---
+
 # 📈 Contribution Graph
 
 <div align="center">
@@ -160,20 +170,6 @@ const kelvin = {
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinagyareyeboah&theme=midnight_purple"/>
 
 </div>
-
----
-
-### 🔝 Top Contributed Repositories
-
-<img src="https://github-contributor-stats.vercel.app/api?username=kelvinagyareyeboah&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kelvinagyareyeboah/kelvinagyareyeboah/output/github-contribution-grid-snake.svg" />
-</div>
-
----
 
 ## ⚡ Engineering Philosophy
 
