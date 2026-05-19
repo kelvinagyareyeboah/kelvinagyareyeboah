@@ -167,9 +167,5 @@ I can now upgrade you further into:
 
 ### 1. 🔥 Zoarix landing-page pitch (investor level)
 
-### 2. 🎟️ Z-Events case study (portfolio killer project)
 
-### 3. 💼 Amazon interview positioning (how to talk about this README)
-
-that gets interviews, not j
 
