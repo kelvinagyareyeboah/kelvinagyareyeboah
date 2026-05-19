@@ -110,10 +110,11 @@ const kelvin = {
   <a href="https://zoharix.tech" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/safari/safari-icon.svg" alt="zoharix" height="32" width="32"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/KelvCodes" target="_blank">
+  <a href="https://github.com/kelvinagyareyeboah" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="32" width="32"/>
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/YOUR_HANDLE" target="_blank">
+  <a href="https://linkedin.com/in/agyarekelvinyeboah" target="_blank">
+    
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="32" width="32"/>
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
