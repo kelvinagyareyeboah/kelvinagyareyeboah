@@ -161,9 +161,6 @@ Thi
 
 # 🚀 NEXT LEVEL (if you want even more)
 
-I can now upgrade you further into:
-
- landing-page pitch (investor level)
 
 
 
