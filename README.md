@@ -128,11 +128,6 @@ You are not “a student dev” anymore — you are:
 
 ---
 
-## ✅ 2. Product-driven narrative
-
- event systems (Z-Events)”
-
-
 
 
 
