@@ -126,7 +126,7 @@ const kelvin = {
 
 ---
 
-# 📊 G Stats
+# 📊  Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=austinbediako)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=austinbediako)
