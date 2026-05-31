@@ -16,7 +16,7 @@ const kelvin = {
   base     : "Accra, Ghana 🇬🇭",
   role     : "Software Engineer & Product Architect",
   company  : "Founder @ Zoharix",
-  building : "Z-Events — Event Ticketing & Serv Platform",
+  building : "Z-Events — Event Ticketing & Serv iPlatform",
   focus    : [
     "Scalable full-stack web systems",
     "Frontend engineering at depth",
