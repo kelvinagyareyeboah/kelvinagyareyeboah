@@ -130,8 +130,7 @@ const kelvin = {
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelvinagyareyeboah)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelvinagy)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelvinagyar)
 
 
 
