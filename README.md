@@ -128,7 +128,7 @@ const kelvin = {
 
 # 📊 Language Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelvi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelvinag)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=austinbediako)
 
