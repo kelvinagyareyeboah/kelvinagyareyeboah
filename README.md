@@ -128,11 +128,7 @@ const kelvin = {
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=kelvinagyareyeboah&theme=darkhub&no-frame=true&row=1&column=7"/>
-
-</div---
+---
 
 
 # 📈 Contribution Graph
