@@ -125,7 +125,6 @@ const kelvin = {
 </div>
 
 ---
-## 💻 Most Used Languages
 
 
 ---
