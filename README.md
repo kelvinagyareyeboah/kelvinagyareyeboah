@@ -1,8 +1,5 @@
 ![Kelvin](me.png)
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:1a0533,100:0d0221&height=280&section=header&text=Kelvin%20Agyare%20Yeboah&fontSize=52&fontColor=c084fc&fontAlignY=45&desc=Software%20Engineer%20%7C%20Founder%20%40%20Zoharix%20%7C%20Building%20Z-Events&descSize=17&descAlignY=65&animation=fadeIn" />
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+%7C+Product+Architect;Founder+%40+Zoharix+%F0%9F%9A%80;Building+Z-Events+%E2%80%94+Next-Gen+Ticketing;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+scalable+systems)](https://git.io/typing-svg)
