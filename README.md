@@ -14,7 +14,8 @@
 const kelvin = {
   name     : "Kelvin Agyare Yeboah",
   base     : "Accra, Ghana",
-  role     : "Software Engineer & Productic",
+  role     : "Software Engineer & Pro
+uctic",
   company  : "Founder @ Zoharix",
   building : "Z-Events — Event Ticketing & Service Hosting Platform",
   focus    : [
