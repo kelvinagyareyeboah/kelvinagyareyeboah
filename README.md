@@ -19,7 +19,7 @@ const kelvin = {
   building : "Z-Events — Event Ticketing & Service Hosting Platform",
   focus    : [
     "Scalable full-stack web systems",
-    "Fronngineering at depth",
+    "Frongineering at depth",
     "Product thinking beyond just code",
     "AI-powered software solutions",
   ],
