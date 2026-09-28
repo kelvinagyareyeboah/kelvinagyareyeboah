@@ -13,7 +13,7 @@
 ```ts
 const kelvin = {
   name     : "Kelvin Agyare Yeboah",
-  base     : "Tem, Ghana",
+  base     : "Tema, Ghana",
   role     : "Software Engineer & AI Researcher",
   company  : "Founder @ Zoharix",
   building : "Z-Events — Event Ticketing & Service Hosting Platform",
